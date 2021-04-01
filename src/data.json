@@ -1,0 +1,178 @@
+[
+  {
+    "id": "5a62f1a5-4644-43af-b435-308397bcd63a",
+    "Label": "Accesorios de Celulares",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "b81a66fa-8023-4339-9bf0-f5e9a3e5505e",
+    "Label": "Bocina para equipos de musica",
+    "Gravamen": 0.14,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "2d528586-19f1-4a9b-a78f-68a4ff23c368",
+    "Label": "Cámaras de televisión",
+    "Gravamen": 0.03,
+    "Selectivo": 0.2,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "17f594e2-840c-4d82-bf94-9f245d61df37",
+    "Label": "Cámaras digitales de fotografía",
+    "Gravamen": 0.2,
+    "Selectivo": 0.2,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "bdcc4898-651b-4db5-bf62-2fab3be481dd",
+    "Label": "Celulares",
+    "Gravamen": 0.08,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "efbb4c6e-325a-4877-b160-b8b7a4e74ece",
+    "Label": "Componenetes musica",
+    "Gravamen": 0.2,
+    "Selectivo": 32.20,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "b6fb977e-170a-4cde-a884-46a3aa1ec77c",
+    "Label": "Componentes Electronicos (HDD, SSD, RAM, etc)",
+    "Gravamen": 0,
+    "Selectivo": 0,
+    "ITBIS": 0,
+    "Observaciones": ""
+  },
+  {
+    "id": "b66936ce-2878-40f5-8672-13a20a868376",
+    "Label": "Computadoras, laptops, tablets y netbooks",
+    "Gravamen": 0,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "105063d8-0425-4144-9739-47d1ee4e616b",
+    "Label": "Consolas de videojuegos con reproducción de  DVD o Blu-ray",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "c2f84767-c345-4898-b778-b862cff21cbf",
+    "Label": "DVD",
+    "Gravamen": 0.2,
+    "Selectivo": 0.2,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "061e535f-663b-4bfd-bab4-5db0b24f2691",
+    "Label": "Joyas y bisuterias",
+    "Gravamen": 0.2,
+    "Selectivo": 0.38,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "6e6b7155-efee-48f4-a8ff-1152202556bc",
+    "Label": "Monitores",
+    "Gravamen": 0,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "29fc4edb-5e47-4c07-b1ba-1907d7a036a8",
+    "Label": "Proyectores",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "c2fcaa8c-187a-4042-a400-48d9b6785746",
+    "Label": "Relojes (no metales preciosos)",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "7410f69d-d300-4efc-9256-d77db7c99729",
+    "Label": "Relojes de oro y plata",
+    "Gravamen": 0.2,
+    "Selectivo": 0.2,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "35eee017-6556-4d12-b74c-9cce440f8279",
+    "Label": "Reproductor de DVD o Blu-ray",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "ae8b513b-d83d-476c-978b-ffe6e4399429",
+    "Label": "Repuestos de Vehiculo",
+    "Gravamen": 8,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "0dd0cf95-c0f8-4d54-b65d-227617201e48",
+    "Label": "Ropa en General",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "e28753e2-0639-4b05-9d34-dd568649db9c",
+    "Label": "Suplementos en polvo",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "f939d2c5-72f8-41ee-bffe-55edfb6bfb74",
+    "Label": "Televisores",
+    "Gravamen": 0.2,
+    "Selectivo": 0.1,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "33e1e3d2-6b80-4448-bb19-72f77be178c1",
+    "Label": "Videocamaras",
+    "Gravamen": 0.2,
+    "Selectivo": 0.2,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  },
+  {
+    "id": "7df02b23-931b-4321-a816-7ed6ac90b7c1",
+    "Label": "Videojuegos",
+    "Gravamen": 0.2,
+    "Selectivo": 0,
+    "ITBIS": 0.18,
+    "Observaciones": ""
+  }
+]
